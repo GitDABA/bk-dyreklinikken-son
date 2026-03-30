@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
     formats: ["image/webp"],
   },
   output: "standalone",
+  allowedDevOrigins: ["100.68.178.26"],
 };
 
 export default nextConfig;
