@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /preview/
+
+Sitemap: https://dyreklinikken-son.netlify.app/sitemap.xml
